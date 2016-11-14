@@ -4,7 +4,10 @@ Proses Enkripsi dan Dekripsi RC-4 dengan bahasa pemrograman PHP
 Hasil pemrograman ini berasal dari pemahaman website :
 https://matriasiyas.wordpress.com/2014/01/19/pengertian-algoritma-rc4/
 
-nb : proses 
+nb : 
+
+proses
+
 j = ( j + S[i] ) mod 4
 
   = ( 0 + 2 ) mod 4
