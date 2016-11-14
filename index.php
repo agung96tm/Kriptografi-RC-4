@@ -38,7 +38,10 @@
 <?php 
 
 if(isset($_POST["submit"])) {
-
+	// Perogram ini dibuat oleh Agung Yuliyanto (agung96tm)
+	// gunakan dengan bijak tanpa lupa untuk berterima kasih
+	// fb : https://web.facebook.com/manwithoutconfusion
+	
 	// memasukan nilai ke variable
 	$pesan = $_POST["pesan"];
 	$kunci = $_POST["kunci"];
