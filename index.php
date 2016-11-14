@@ -4,6 +4,7 @@
 	<title>RC-4</title>
 </head>
 <body>
+<h1>Kripto RC-4</h1>
 <form action="index.php" method="post">
 	<fieldset>
 		<legend>RC-4</legend>
